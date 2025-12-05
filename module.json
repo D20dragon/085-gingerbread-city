@@ -1,7 +1,7 @@
 {
   "id": "085-gingerbread-city",
   "title": "085 Gingerbread City",
-  "version": "1.0.0",
+  "version": "1.00",
   "manifest": "https://github.com/D20dragon/085-gingerbread-city/blob/main/module.json",
   "download": "https://github.com/D20dragon/085-gingerbread-city/releases/download/1.00/085-gingerbread-city.zip",
   "compatibility": {
