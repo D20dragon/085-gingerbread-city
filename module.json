@@ -15,7 +15,7 @@
     }
   ],
   "url": "https://www.patreon.com/cw/d20_dragon",
-  "manifest": "https://raw.githubusercontent.com/D20dragon/085-gingerbread-city/refs/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/085-gingerbread-city/main/module.json",
   "download": "https://github.com/D20dragon/085-gingerbread-city/releases/download/1.00/085-gingerbread-city.zip",
   "flags": {
     "canUpload": true
